@@ -7,12 +7,6 @@
 
 `El Salvador 🇸🇻`
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#stack)
-[![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)](#stack)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#stack)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](#stack)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#stack)
-
 </div>
 
 ---
@@ -28,47 +22,58 @@ instead of politely.
 
 ## Projects
 
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| **[svfe-mock-api](https://github.com/antonio0x/svfe-mock-api)** | Simulator for El Salvador's electronic invoicing system. Validates against the official MH JSON Schemas and **actually verifies the RS512 signature** — so a document it accepts is a document with a real shot at passing. Build your DTE integration before Hacienda enables you. | `TypeScript` `Express` `Prisma` `Docker` |
-| **[neowindows](https://github.com/antonio0x/neowindows)** | A no-nonsense guide to a minimal Neovim + Oh My Posh setup on Windows. | `Vim Script` |
-| **[dotfiles](https://github.com/antonio0x/dotfiles)** | My daily driver: Neovim, tmux, fish. | `Lua` `Shell` |
+**[svfe-mock-api](https://github.com/antonio0x/svfe-mock-api)** &nbsp;·&nbsp; `TypeScript` `Express` `Prisma` `Docker`
+
+Simulator for El Salvador's electronic invoicing system. Validates against the official
+Ministry of Finance JSON Schemas and **actually verifies the RS512 signature** — so a
+document it accepts is a document with a real shot at passing. Build your DTE integration
+before Hacienda enables you, not after.
+
+**[neowindows](https://github.com/antonio0x/neowindows)** &nbsp;·&nbsp; `Vim Script`
+
+A no-nonsense guide to a minimal Neovim + Oh My Posh setup on Windows.
+
+**[dotfiles](https://github.com/antonio0x/dotfiles)** &nbsp;·&nbsp; `Lua` `Shell`
+
+My daily driver: Neovim, tmux, fish.
 
 ## Stack
 
-<div align="center">
+**Languages**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nodejs,express,python,react,tailwind&theme=dark">
-  <img alt="TypeScript, Node.js, Express, Python, React, Tailwind CSS" src="https://skillicons.dev/icons?i=ts,nodejs,express,python,react,tailwind&theme=light">
-</picture>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=prisma,postgres,docker,git,linux,neovim&theme=dark">
-  <img alt="Prisma, PostgreSQL, Docker, Git, Linux, Neovim" src="https://skillicons.dev/icons?i=prisma,postgres,docker,git,linux,neovim&theme=light">
-</picture>
+**Backend**
 
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Tooling**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## Activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=antonio0x&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-  <img alt="Contribution streak" height="180" src="https://streak-stats.demolab.com?user=antonio0x&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antonio0x&theme=github_dark">
-  <img alt="Top languages by repository" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antonio0x&theme=default">
+  <img alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antonio0x&theme=default">
 </picture>
-
-</div>
-
-## Contributions
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antonio0x/antonio0x/output/snake-dark.svg">
@@ -95,11 +100,20 @@ y las herramientas que fallan fuerte en lugar de fallar en silencio.
 
 ### Proyectos
 
-| Proyecto | Qué es | Stack |
-| :--- | :--- | :--- |
-| **[svfe-mock-api](https://github.com/antonio0x/svfe-mock-api)** | Simulador del Sistema de Facturación Electrónica de El Salvador. Valida contra los JSON Schemas oficiales del MH y **sí verifica la firma RS512** — así que un documento que acepta es un documento con forma de pasar de verdad. Construí tu integración DTE antes de que Hacienda te habilite. | `TypeScript` `Express` `Prisma` `Docker` |
-| **[neowindows](https://github.com/antonio0x/neowindows)** | Guía directa para un setup minimalista de Neovim + Oh My Posh en Windows. | `Vim Script` |
-| **[dotfiles](https://github.com/antonio0x/dotfiles)** | Mi configuración diaria: Neovim, tmux, fish. | `Lua` `Shell` |
+**[svfe-mock-api](https://github.com/antonio0x/svfe-mock-api)** &nbsp;·&nbsp; `TypeScript` `Express` `Prisma` `Docker`
+
+Simulador del Sistema de Facturación Electrónica de El Salvador. Valida contra los JSON
+Schemas oficiales del Ministerio de Hacienda y **sí verifica la firma RS512** — así que un
+documento que acepta es un documento con forma de pasar de verdad. Construí tu integración
+DTE antes de que Hacienda te habilite, no después.
+
+**[neowindows](https://github.com/antonio0x/neowindows)** &nbsp;·&nbsp; `Vim Script`
+
+Guía directa para un setup minimalista de Neovim + Oh My Posh en Windows.
+
+**[dotfiles](https://github.com/antonio0x/dotfiles)** &nbsp;·&nbsp; `Lua` `Shell`
+
+Mi configuración diaria: Neovim, tmux, fish.
 
 </details>
 
